@@ -1,0 +1,35 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.mouseWheelZoom": true,
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.cursorStyle": "line-thin",
+  "editor.cursorBlinking": "solid",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "line",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.guides.bracketPairs": "active",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.wordWrap": "on",
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.size": "fit",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
+  "explorer.confirmDelete": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+  },
+  "vscode-edge-devtools.webhintInstallNotification": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
