@@ -19,6 +19,10 @@
   "editor.minimap.size": "fit",
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
   "explorer.confirmDelete": false,
   "workbench.editor.enablePreview": false,
   "workbench.editorAssociations": {
@@ -26,6 +30,10 @@
   },
   "vscode-edge-devtools.webhintInstallNotification": true,
   "[css]": {
-    "editor.defaultFormatter": "vscode.css-language-features"
-  }
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.openRepositoryInParentFolders": "always",
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Fira code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true
 }
