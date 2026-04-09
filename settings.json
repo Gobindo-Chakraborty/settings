@@ -1,7 +1,6 @@
 {
   "workbench.startupEditor": "none",
   "workbench.sideBar.location": "right",
-  "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.iconTheme": "material-icon-theme",
   "editor.mouseWheelZoom": true,
   "editor.smoothScrolling": true,
@@ -34,6 +33,26 @@
   },
   "git.openRepositoryInParentFolders": "always",
   "editor.tabSize": 2,
-  "editor.fontFamily": "'Fira code', Consolas, 'Courier New', monospace",
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "workbench.secondarySideBar.defaultVisibility": "visible",
+  "chat.viewSessions.orientation": "stacked",
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.editor.empty.hint": "hidden",
+  "git.autofetch": true,
+  "explorer.confirmDragAndDrop": false,
+  "git.confirmSync": false,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "explorer.confirmPasteNative": false,
+  "css.lint.unknownAtRules": "ignore",
+  "liveServer.settings.fullReload": true,
+  "mdb.mcp.server": "autoStartEnabled",
+  "github.copilot.chat.welcome.enabled": false
 }
