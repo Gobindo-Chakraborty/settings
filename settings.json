@@ -54,5 +54,5 @@
   "css.lint.unknownAtRules": "ignore",
   "liveServer.settings.fullReload": true,
   "mdb.mcp.server": "autoStartEnabled",
-  "github.copilot.chat.welcome.enabled": false
+  "editor.acceptSuggestionOnCommitCharacter": false
 }
